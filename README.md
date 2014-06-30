@@ -1,4 +1,4 @@
 showcase
 ========
 
-web media player for Animation and vfx studios
+media player for Animation and vfx studios
